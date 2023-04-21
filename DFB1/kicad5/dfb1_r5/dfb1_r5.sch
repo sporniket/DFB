@@ -1075,7 +1075,7 @@ Wire Wire Line
 	1100 4200 1100 4400
 Connection ~ 1100 4400
 $Comp
-L Device:Jumper_NO_Small JP1
+L solder_jumper_k5:Jumper_NO_Small JP1
 U 1 1 6279F010
 P 1100 4900
 F 0 "JP1" H 1100 5085 50  0000 C CNN
